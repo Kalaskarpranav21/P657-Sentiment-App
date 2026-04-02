@@ -106,7 +106,7 @@ st.markdown("""
 }
 </style>
 
-<div class="title">🔬 SentiScope — AI Sentiment Analyzer</div>
+<div class="title">Sentiment Analyzer</div>
 <div class="subtitle">Analyze emotions in text using Machine Learning & NLP</div>
 """, unsafe_allow_html=True)
 
@@ -124,12 +124,6 @@ It classifies input into:
 
 
 ---
-
-### 🚀 How to Use
-1. ✍️ Enter text OR click example below  
-2. 🔍 Click Analyze Sentiment  
-3. 📊 View result, Text stats  
-
 ---
 """)
 
